@@ -1,0 +1,10 @@
+dataset/*
+*.pyc
+.DS_Store
+save_img/*
+*.model
+*.bin
+*.pth
+*.h5
+data_for_search/
+Skip-Gram-Model-PyTorch/
